@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Google",
+        "url": "https://www.google.com",
+        "urlf": "https://www.google.com",
+        "icon": "icons/google.png"
+    },
+    {
+        "name": "GitHub",
+        "url": "https://www.github.com",
+        "urlf": "https://www.google.com",
+        "icon": "icons/github.png"
+    },
+    {
+        "name": "Python Docs",
+        "url": "https://docs.python.org",
+        "urlf": "https://www.google.com",
+        "icon": "icons/python.png"
+    }
+]
